@@ -873,9 +873,7 @@ function initEvents() {
 }
 
 // 如果是移动设备
-if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-    alert("本网站建议在桌面浏览器上查看，已强制切换到桌面版布局。");
-}
+alert("本网站建议在桌面浏览器上查看或手机浏览器的桌面版网页。");
 
 // 初始化应用
 window.onload = () => {
