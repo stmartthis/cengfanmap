@@ -596,7 +596,7 @@ button:hover {
 }
 
 /* 响应式调整 */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .student-message {
         font-size: 0.75rem;
         padding: 5px;
@@ -612,4 +612,4 @@ button:hover {
         width: 100%;
         max-height: 40vh;
     }
-}
+} */
