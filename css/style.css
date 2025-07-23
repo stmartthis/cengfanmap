@@ -1,0 +1,615 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    color: #333;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    max-width: 1600px;
+    margin: 0 auto;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+
+header {
+    background: rgba(0, 30, 60, 0.85);
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.logo i {
+    font-size: 2rem;
+    color: #ff7e5f;
+}
+
+.mode-toggle {
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 50px;
+    padding: 8px 20px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.mode-toggle:hover {
+    background: rgba(255, 255, 255, 0.25);
+    transform: translateY(-2px);
+}
+
+.mode-toggle.developer {
+    background: rgba(40, 167, 69, 0.25);
+    color: #28a745;
+}
+
+.content {
+    display: flex;
+    flex: 1;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+}
+
+.sidebar {
+    width: 420px;
+    background: rgba(10, 25, 47, 0.9);
+    color: #e6f1ff;
+    padding: 20px;
+    overflow-y: auto; /* 确保侧边栏可以滚动 */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-right: 1px solid rgba(100, 255, 218, 0.1);
+}
+
+.panel {
+    background: rgba(17, 34, 64, 0.7);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(100, 255, 218, 0.1);
+}
+
+.panel h2 {
+    font-size: 1.4rem;
+    margin-bottom: 15px;
+    color: #64ffda;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.search-box {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+input, button {
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: none;
+    font-size: 1rem;
+}
+
+input {
+    flex: 1;
+    background: rgba(23, 42, 69, 0.8);
+    color: #e6f1ff;
+    border: 1px solid rgba(100, 255, 218, 0.2);
+}
+
+input::placeholder {
+    color: #8892b0;
+}
+
+button {
+    background: linear-gradient(135deg, #ff9966, #ff5e62);
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(255, 94, 98, 0.4);
+}
+
+#resultList {
+    max-height: 200px;
+    overflow-y: auto;
+    background: rgba(23, 42, 69, 0.8);
+    border-radius: 8px;
+    border: 1px solid rgba(100, 255, 218, 0.2);
+}
+
+.result-item {
+    padding: 12px 15px;
+    border-bottom: 1px solid rgba(100, 255, 218, 0.1);
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.result-item:hover {
+    background: rgba(100, 255, 218, 0.1);
+}
+
+.result-item h3 {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+    color: #64ffda;
+}
+
+.result-item p {
+    font-size: 0.9rem;
+    color: #8892b0;
+}
+
+.dev-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.dev-form input {
+    margin-bottom: 10px; /* 确保输入框之间有间距 */
+}
+
+.student-list {
+    max-height: 300px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* .student-item {
+    background: rgba(23, 42, 69, 0.8);
+    padding: 12px 15px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgba(100, 255, 218, 0.1);
+}
+
+.student-info h3 {
+    font-size: 1.1rem;
+    color: #64ffda;
+    margin-bottom: 5px;
+}
+
+.student-info p {
+    font-size: 0.9rem;
+    color: #8892b0;
+}
+
+.student-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.student-actions button {
+    padding: 6px 10px;
+    font-size: 0.9rem;
+} */
+
+.btn-delete {
+    background: linear-gradient(135deg, #ff416c, #ff4b2b);
+}
+
+.map-container {
+    flex: 1;
+    position: relative;
+}
+
+#mapContainer {
+    width: 100%;
+    height: 100%;
+}
+
+.map-overlay {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: rgba(10, 25, 47, 0.85);
+    padding: 15px;
+    border-radius: 12px;
+    color: #e6f1ff;
+    max-width: 300px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(100, 255, 218, 0.1);
+    z-index: 999;
+}
+
+.map-overlay h3 {
+    color: #64ffda;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.stats {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid rgba(100, 255, 218, 0.1);
+}
+
+.stat-item {
+    text-align: center;
+    flex: 1;
+}
+
+.stat-value {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #ff7e5f;
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    color: #8892b0;
+}
+
+.export-section {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.export-section button {
+    flex: 1;
+    background: rgba(23, 42, 69, 0.8);
+    border: 1px solid rgba(100, 255, 218, 0.2);
+}
+
+.export-section button:hover {
+    background: rgba(100, 255, 218, 0.1);
+    transform: translateY(-3px);
+}
+
+/* 1. 固定侧边栏高度 */
+.sidebar {
+    height: 95vh; /* 占据整个视口高度 */
+    overflow-y: auto; /* 启用垂直滚动 */
+}
+
+/* 2. 防止内容溢出 */
+.content {
+    min-height: 0; /* 关键：允许内部元素收缩 */
+}
+
+.sidebar::-webkit-scrollbar {
+    width: 12px;
+}
+.sidebar::-webkit-scrollbar-thumb {
+    background: #ff7e5f;
+}
+
+/* 省份样式 */
+
+.province-item {
+    margin-bottom: 20px;
+    background: rgba(17, 34, 64, 0.7);
+    border-radius: 10px;
+    max-height: 600px;
+    overflow: auto;
+}
+
+.province-header {
+    padding: 15px;
+    background: rgba(30, 60, 90, 0.8);
+    cursor: pointer;
+}
+
+.province-title {
+    font-size: 1.3rem;
+    color: #ff7e5f;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.province-title .student-count {
+    font-size: 0.9rem;
+    color: #64ffda;
+    margin-left: auto;
+}
+
+/* 地图标记样式 */
+.province-marker {
+    background: linear-gradient(135deg, #1a5fb4, #1a73e8);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 2px solid white;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    min-width: 120px;
+    text-align: center;
+}
+
+.province-name {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    font-size: 0.9em;
+}
+
+.stats i {
+    margin-right: 3px;
+}
+
+/* 信息窗口样式 */
+.map-infowindow {
+    max-width: 500px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.map-infowindow h3 {
+    color: #1a5fb4;
+    margin: 0 0 10px 0;
+    font-size: 1.1em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+.school-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* 学校列表项样式 */
+.school-list li {
+    padding: 8px 5px;
+    border-bottom: 1px dashed #eee;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.school-list li:hover {
+    background: #f5f5f5;
+}
+
+.school-list li:after {
+    /* content: "▶";zo */
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.8em;
+    color: #999;
+    transition: transform 0.2s;
+}
+
+.school-list li.expanded:after {
+    transform: translateY(-50%) rotate(90deg);
+}
+
+/* 学生列表样式 */
+.student-list {
+    padding-left: 25px;
+    margin-top: 5px;
+    max-height: 2500px;
+}
+
+.student-item {
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px dotted #eee;
+    font-size: 0.9em;
+    /* overflow: auto; */
+}
+
+.btn-locate-small {
+    background: none;
+    border: none;
+    color: #1a73e8;
+    cursor: pointer;
+    padding: 2px 5px;
+}
+
+.btn-locate-small:hover {
+    color: #0d5bba;
+}
+
+/* 大学样式 */
+.universities-container {
+    max-height: 600px;
+    overflow-y: auto;
+    margin: 10px 0;
+}
+
+.university-item {
+    margin: 15px 0;
+}
+
+.university-header {
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(100, 255, 218, 0.2);
+}
+
+.university-title {
+    font-size: 1.1rem;
+    color: #64ffda;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.university-title .student-count {
+    font-size: 0.8rem;
+    color: #8892b0;
+    margin-left: auto;
+}
+
+/* 学生样式 */
+.students-container {
+    max-height: 600px;
+    overflow-y: auto;
+    margin-left: 20px;
+}
+
+.student-item {
+    padding: 8px 0;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px dashed rgba(100, 255, 218, 0.1);
+}
+
+.student-name {
+    font-size: 1rem;
+    color: #e6f1ff;
+    flex-grow: 1;
+}
+
+.student-actions {
+    display: flex;
+    gap: 5px;
+}
+
+.student-actions button {
+    padding: 3px 8px;
+    border-radius: 4px;
+    border: none;
+    background: rgba(23, 42, 69, 0.8);
+    color: white;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+.student-actions .btn-locate {
+    color: #1a73e8;
+}
+
+.student-actions .btn-delete {
+    color: #d32f2f;
+}
+
+/* 图标大小调整 */
+.fa-map-marker-alt, .fa-school {
+    width: 20px;
+    text-align: center;
+}
+
+/* 在 style.css 中添加 */
+.province-marker {
+    background: linear-gradient(135deg, #1a5fb4, #1a73e8);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 2px solid white;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    min-width: 120px;
+    text-align: center;
+    position: relative;
+}
+
+/* 添加小三角形指示器 */
+/* .province-marker::after {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #1a5fb4;
+} */
+
+/* 毕业寄语样式 */
+.student-message {
+    font-size: 0.85rem;
+    color: #a8b2d1;
+    margin: 5px 0;
+    padding: 8px;
+    background: rgba(23, 42, 69, 0.5);
+    border-radius: 6px;
+    border-left: 3px solid #64ffda;
+    word-break: break-word;
+}
+
+.btn-message {
+    background: rgba(23, 42, 69, 0.8) !important;
+    color: #64ffda !important;
+    border: 1px solid rgba(100, 255, 218, 0.3) !important;
+}
+
+.btn-message:hover {
+    background: rgba(100, 255, 218, 0.1) !important;
+    color: #64ffda !important;
+}
+
+/* 地图信息窗口中的寄语样式 */
+.map-infowindow .student-message {
+    font-size: 0.8rem;
+    color: #666;
+    background: #f5f5f5;
+    margin: 3px 0 5px 0;
+    padding: 5px;
+    border-left: 2px solid #1a73e8;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .student-message {
+        font-size: 0.75rem;
+        padding: 5px;
+    }
+}
+
+@media (max-width: 900px) {
+    .content {
+        flex-direction: column;
+    }
+    
+    .sidebar {
+        width: 100%;
+        max-height: 40vh;
+    }
+}

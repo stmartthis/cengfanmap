@@ -1,0 +1,98 @@
+<!-- jquery.danmu.js (//github.com/chiruom/danmu/) - Licensed under the MIT license -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>宁夏银川一中2025届9班毕业蹭饭图</title>
+    <script>
+        window._AMapSecurityConfig = {
+            securityJsCode: "8ffe759e69a352269b5f22136e68b90b",
+        };
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- 添加 AMap.Scale 和 AMap.ToolBar 插件到引入中 -->
+    <script src="https://webapi.amap.com/maps?v=2.0&key=eeef6f83a58f6be6853037b0fa001a7a&plugin=AMap.PlaceSearch,AMap.DistrictLayer,AMap.Scale,AMap.ToolBar,AMap.Geocoder,AMap.MarkerClusterer"></script>
+    <!-- <script src="js/jquery-1.11.1.min.js"></script> -->
+    <!-- <script src="js/jquery.danmu.js.js"></script> -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <i class="fas fa-map-marked-alt"></i>
+                <h1>宁夏银川一中2025届9班毕业蹭饭图</h1>
+            </div>
+            <div class="mode-toggle" id="modeToggle" style="display: none;">
+                <i class="fas fa-user"></i> 游客模式
+            </div>
+        </header>
+        
+        <div class="content">
+            <div class="sidebar">
+                <div class="panel">
+                    <h2><i class="fas fa-search"></i> <span id="searchTitle">搜索同学</span></h2>
+                    <div class="search-box">
+                        <input type="text" id="universitySearch" placeholder="输入大学名称...">
+                        <button id="searchBtn"><i class="fas fa-search"></i> 搜索</button>
+                    </div>
+                    <div id="resultList"></div>
+                </div>
+                
+                <div class="panel dev-form" id="devForm">
+                    <h2><i class="fas fa-user-plus"></i> 添加同学</h2>
+                    <input type="text" id="studentName" placeholder="输入同学姓名">
+                     <input type="text" id="provinceInput" placeholder="输入省份（如：广东省）"> <!-- 新增省份输入框 -->
+                    <button id="addBtn"><i class="fas fa-plus-circle"></i> 添加到地图</button>
+                </div>
+                
+                <div class="panel">
+                    <h2><i class="fas fa-users"></i> 同学列表</h2>
+                    <div class="student-list" id="studentList"></div>
+                </div>
+                
+                <div class="panel" id="dataManagementPanel">
+                    <h2><i class="fas fa-database"></i> 数据管理</h2>
+                    <div class="export-section">
+                        <button id="exportBtn"><i class="fas fa-download"></i> 导出数据</button>
+                        <button id="importBtn"><i class="fas fa-upload"></i> 导入数据</button>
+                    </div>
+                    <input type="file" id="importFile" accept=".json" style="display: none;">
+                </div>
+            </div>
+            
+            <div class="map-container">
+
+                <div id="mapContainer"></div>
+                <div class="map-overlay">
+                    <h3><i class="fas fa-info-circle"></i> 使用说明</h3>
+                    <p>1. 在搜索框中输入大学名称/同学名称进行搜索</p>
+                    <!-- <p>2. 选择搜索结果中的大学位置</p> -->
+                    <!-- <p>3. 开发者模式下添加同学信息</p> -->
+                    <p>2. 点击同学列表可快速定位</p>
+                    <p>3. 地图上的省份标记可以拖动，也可以点击查看该省份的大学和同学</p>
+                    
+                    <div class="stats">
+                        <div class="stat-item">
+                            <div class="stat-value" id="studentCount">0</div>
+                            <div class="stat-label">同学总数</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value" id="universityCount">0</div>
+                            <div class="stat-label">大学数量</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value" id="provinceCount">0</div>
+                            <div class="stat-label">省份覆盖</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+        
+</body>
+</html>
