@@ -613,3 +613,14 @@ button:hover {
         max-height: 40vh;
     }
 } */
+/* 移动端适配：屏幕宽度 < 768px 时 */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 60px;   /* 超窄边栏，仅保留图标 */
+  }
+  
+  /* 隐藏边栏文字，仅保留图标 */
+/*   .sidebar span {
+    display: none;
+  } */
+}
