@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="2PQzD0fNZQGQ9D1xO4id">
-    <mxGraphModel dx="14020" dy="11141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="28220" dy="19421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,10 +20,10 @@
           <mxGeometry x="-1270" y="6070" width="680" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-286" value="加成反应/含加聚反应" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="-2340" y="10930" width="990" height="350" as="geometry" />
+          <mxGeometry x="-2110" y="12810" width="864" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-287" value="消去反应&#xa;▪︎ 特有原料与条件：β-H,加热&#xa;▪︎ 特有产物：烯烃/炔烃/不饱和碳碳键&#xa; #备注：注意扎伊采夫规则（落井下石）" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="-2820" y="12320" width="1170" height="600" as="geometry" />
+          <mxGeometry x="-3080" y="13290" width="1170" height="600" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-288" value="羟基氢的酸性（见详情页）&#xa;▪︎ 原料与条件：1️⃣来自羟基氢的酸性（见详情页）:酸性环境/无机酸,羧酸（羧基）,碳酸和碳酸氢根、碳酸根,次氯酸与次氯酸根,苯酚与同系物" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="460" y="4860" width="260" height="198" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="1128" y="9480" width="260" height="174" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-291" value="卤代烃消去&#xa;▪︎ 原料与条件：0️⃣来自消去反应:β-H,加热&#xa;1️⃣来自卤代烃消去:卤化烃,碱的醇溶液,加热&#xa;▪︎ 产物：0️⃣来自消去反应:烯烃/炔烃/不饱和碳碳键" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="70" y="12700" width="1550" height="590" as="geometry" />
+          <mxGeometry x="1040" y="14770" width="1710" height="1410" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-292" value="特殊氧化" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="286" y="-20" width="264" height="234" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="690" y="6265" width="260" height="198" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-294" value="醇消去/分子内脱水&#xa;▪︎ 原料与条件：0️⃣来自消去反应:β-H,加热&#xa;1️⃣来自醇消去/分子内脱水:醇（醇羟基）,浓硫酸,170℃加热&#xa;▪︎ 产物：0️⃣来自消去反应:烯烃/炔烃/不饱和碳碳键" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="13390" width="2280" height="520" as="geometry" />
+          <mxGeometry x="360" y="16430" width="2280" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-295" value="含苯环的蛋白质遇浓硝酸变黄&#xa;▪︎ 原料与条件：1️⃣来自含苯环的蛋白质遇浓硝酸变黄:蛋白质" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="640" y="5362" width="260" height="150" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="-440" y="3770" width="1300" height="460" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-307" value="醛/酮加成&#xa;▪︎ 原料与条件：1️⃣来自醛/酮加成:醛,酮,催化剂&#xa;▪︎ 产物：1️⃣来自醛/酮加成:醇（醇羟基）" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="11167" width="1468" height="443" as="geometry" />
+          <mxGeometry x="20" y="12680" width="1360" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-308" value="酯化反应&#xa;▪︎ 原料与条件：1️⃣来自酯化反应:加热,可逆,浓硫酸&#xa;▪︎ 产物：1️⃣来自酯化反应:酯,水" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="880" y="8360" width="260" height="150" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="1910" y="5570" width="1130" height="618" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-310" value="醛/酮与氢气加成&#xa;▪︎ 原料与条件：1️⃣来自醛/酮加成:醛,酮,催化剂&#xa;2️⃣来自醛/酮与氢气加成:氢气,加热,加压&#xa;▪︎ 产物：1️⃣来自醛/酮加成:醇（醇羟基）&#xa;2️⃣来自醛/酮与氢气加成:&#xa; #备注：也是还原反应" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="10880" width="260" height="246" as="geometry" />
+          <mxGeometry x="2750" y="12140" width="2100" height="680" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-311" value="酰胺的酸性水解&#xa;▪︎ 原料与条件：&#xa;2️⃣来自酰胺的酸性水解:酰胺,水,酸性环境/无机酸,加热&#xa;▪︎ 产物：&#xa;2️⃣来自酰胺的酸性水解:羧酸（羧基）,铵盐" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="1730" y="6500" width="260" height="222" as="geometry" />
@@ -194,7 +194,7 @@
           <mxGeometry x="1410" y="7340" width="260" height="222" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-344" value="醛/酮与氢氰酸加成&#xa;▪︎ 原料与条件：1️⃣来自醛/酮加成:醛,酮,催化剂&#xa;2️⃣来自醛/酮与氢氰酸加成:氢氰酸&#xa;▪︎ 产物：1️⃣来自醛/酮加成:醇（醇羟基）&#xa;2️⃣来自醛/酮与氢氰酸加成:氰醇" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="11260" width="260" height="246" as="geometry" />
+          <mxGeometry x="2770" y="13200" width="1700" height="850" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-345" value="蔗糖水解生成葡萄糖与果糖&#xa;▪︎ 原料与条件：&#xa;2️⃣来自糖类的水解:多糖/二糖,酸性环境/无机酸,酶&#xa;3️⃣来自蔗糖水解生成葡萄糖与果糖:蔗糖,水&#xa;▪︎ 产物：&#xa;2️⃣来自糖类的水解:单糖&#xa;3️⃣来自蔗糖水解生成葡萄糖与果糖:葡萄糖,果糖" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="950" y="7190" width="260" height="270" as="geometry" />
@@ -285,7 +285,7 @@
             <mxPoint x="370" y="5990" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-359" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" target="Lt-VC9pz8S9Jt6Zxi4i6-300" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-359" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-286" target="Lt-VC9pz8S9Jt6Zxi4i6-300" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="690" y="10080" as="sourcePoint" />
@@ -336,7 +336,7 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-366" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-286" target="Lt-VC9pz8S9Jt6Zxi4i6-307" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-990" y="11500" />
+              <mxPoint x="-550" y="13060" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -357,7 +357,7 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-369" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-307" target="Lt-VC9pz8S9Jt6Zxi4i6-310" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1003" y="11094" />
+              <mxPoint x="1540" y="11770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -594,7 +594,7 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-403" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-307" target="Lt-VC9pz8S9Jt6Zxi4i6-344" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1003" y="11390" />
+              <mxPoint x="1550" y="13340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -639,7 +639,7 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-410" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-346" target="Lt-VC9pz8S9Jt6Zxi4i6-286" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2620" y="10490" />
+              <mxPoint x="-2380" y="10430" />
             </Array>
           </mxGeometry>
         </mxCell>
