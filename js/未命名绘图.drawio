@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="2PQzD0fNZQGQ9D1xO4id">
-    <mxGraphModel dx="15760" dy="12051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="11607" dy="9594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,13 +11,13 @@
           <mxGeometry x="-160" y="1360" width="512" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-283" value="羟基氢的极性" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="-946" y="4620" width="386" height="240" as="geometry" />
+          <mxGeometry x="-1380" y="9250" width="680" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-284" value="显色反应" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="224" y="5308" width="124" height="54" as="geometry" />
+          <mxGeometry x="-1308" y="6320" width="1308" height="332" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-285" value="取代反应&#xa;&#xa; #备注：没有变价，类似“置换”" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="-1940" y="17590" width="840" height="420" as="geometry" />
+          <mxGeometry x="-2160" y="20350" width="840" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-286" value="加成反应/含加聚反应" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="-2440" y="23440" width="864" height="200" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="-2720" y="25900" width="1170" height="600" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-288" value="羟基氢的酸性（见详情页）&#xa;▪︎ 原料与条件：1️⃣来自羟基氢的酸性（见详情页）:酸性环境/无机酸,羧酸（羧基）,碳酸和碳酸氢根、碳酸根,次氯酸与次氯酸根,苯酚与同系物" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="460" y="4860" width="260" height="198" as="geometry" />
+          <mxGeometry x="430" y="10750" width="1600" height="770" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-289" value="卤代反应&#xa;▪︎ 原料与条件：1️⃣来自卤代反应:卤素单质&#xa;▪︎ 产物：1️⃣来自卤代反应:卤化氢" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="750" y="5760" width="260" height="150" as="geometry" />
+          <mxGeometry x="420" y="13330" width="1000" height="500" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-290" value="烯烃和炔烃的加成反应&#xa;▪︎ 原料与条件：1️⃣来自烯烃和炔烃的加成反应:烯烃,炔烃&#xa;&#xa; #备注：1.马氏规则（锦上添花）2.注意1,4加成" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="-530" y="23110" width="1390" height="690" as="geometry" />
@@ -41,40 +41,40 @@
           <mxGeometry x="286" y="-20" width="264" height="234" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-293" value="苯和苯的同系物磺化反应&#xa;▪︎ 原料与条件：1️⃣来自苯和苯的同系物磺化反应:苯的同系物,苯,加热,可逆&#xa;▪︎ 产物：1️⃣来自苯和苯的同系物磺化反应:苯磺酸,对甲苯磺酸" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="690" y="6265" width="260" height="198" as="geometry" />
+          <mxGeometry x="210" y="14170" width="1950" height="675" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-294" value="醇消去/分子内脱水&#xa;▪︎ 原料与条件：0️⃣来自消去反应:β-H,加热&#xa;1️⃣来自醇消去/分子内脱水:醇（醇羟基）,浓硫酸,170℃加热&#xa;▪︎ 产物：0️⃣来自消去反应:烯烃/炔烃/不饱和碳碳键" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="1450" y="30190" width="2280" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-295" value="含苯环的蛋白质遇浓硝酸变黄&#xa;▪︎ 原料与条件：1️⃣来自含苯环的蛋白质遇浓硝酸变黄:蛋白质" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="640" y="5362" width="260" height="150" as="geometry" />
+          <mxGeometry x="1510" y="7120" width="2160" height="568" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-296" value="极性羟基氢与Na置换&#xa;▪︎ 原料与条件：1️⃣来自极性羟基氢与Na置换:醇（醇羟基）,酚,羧酸（羧基）,钠&#xa;▪︎ 产物：1️⃣来自极性羟基氢与Na置换:钠盐,羧酸盐,氢气,其他有机盐" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="5110" width="1210" height="450" as="geometry" />
+          <mxGeometry x="10" y="11914" width="1210" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-297" value="酚类物质遇到三价铁显紫色&#xa;▪︎ 原料与条件：1️⃣来自酚类物质遇到三价铁显紫色:苯酚与同系物" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="600" y="5550" width="260" height="126" as="geometry" />
+          <mxGeometry x="-10" y="7760" width="1100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-298" value="淀粉遇到碘液变蓝&#xa;▪︎ 原料与条件：1️⃣来自淀粉遇到碘液变蓝:多糖/二糖,碘液,其他卤素的水溶液/四氯化碳溶液" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="420" y="5730" width="260" height="150" as="geometry" />
+          <mxGeometry x="390" y="8940" width="1160" height="440" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-299" value="苯的硝化反应&#xa;▪︎ 原料与条件：1️⃣来自苯的硝化反应:苯,浓硫酸,浓硝酸,加热&#xa;▪︎ 产物：1️⃣来自苯的硝化反应:硝基苯,水" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="670" y="6510" width="260" height="174" as="geometry" />
+          <mxGeometry x="-1470" y="12710" width="1090" height="610" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-300" value="苯和苯的同系物加成&#xa;▪︎ 原料与条件：1️⃣来自苯和苯的同系物加成:苯" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="-1490" y="24180" width="1160" height="530" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-301" value="水解反应" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="6520" width="124" height="54" as="geometry" />
+          <mxGeometry x="170" y="19200" width="644" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-302" value="苯的同系物的硝化反应&#xa;▪︎ 原料与条件：1️⃣来自苯的同系物的硝化反应:苯的同系物,浓硫酸,浓硝酸,加热,水浴加热&#xa;▪︎ 产物：1️⃣来自苯的同系物的硝化反应:硝基甲苯,三硝基甲苯&#xa; #备注：水浴加热为硝基甲苯，110℃加热为三硝基甲苯" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="544" y="6740" width="260" height="294" as="geometry" />
+          <mxGeometry x="1360" y="19960" width="3220" height="490" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-303" value="弱氧化剂氧化（醛/类醛结构的特征反应）&#xa;▪︎ 原料与条件：1️⃣来自弱氧化剂氧化（醛/类醛结构的特征反应）:醛,碱性环境/碱的水溶液,加热&#xa;▪︎ 产物：1️⃣来自弱氧化剂氧化（醛/类醛结构的特征反应）:水,羧酸盐" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="630" y="270" width="990" height="630" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-304" value="醇的特殊取代&#xa;▪︎ 原料与条件：1️⃣来自醇的特殊取代:醇（醇羟基）,酸性环境/无机酸,加热" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="640" y="7460" width="260" height="126" as="geometry" />
+          <mxGeometry x="1510" y="19280" width="1970" height="480" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-305" value="催化氧化&#xa;▪︎ 原料与条件：1️⃣来自催化氧化:氧气,加热,催化剂" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="670" y="1280" width="600" height="380" as="geometry" />
@@ -86,19 +86,19 @@
           <mxGeometry x="-1720" y="24900" width="1360" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-308" value="酯化反应&#xa;▪︎ 原料与条件：1️⃣来自酯化反应:加热,可逆,浓硫酸&#xa;▪︎ 产物：1️⃣来自酯化反应:酯,水" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="880" y="8360" width="260" height="150" as="geometry" />
+          <mxGeometry x="-1560" y="22000" width="1760" height="510" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-309" value="饱和烃，苯环侧链烃基与卤代烃的卤代&#xa;▪︎ 原料与条件：1️⃣来自卤代反应:卤素单质&#xa;2️⃣来自饱和烃，苯环侧链烃基与卤代烃的卤代:光照,苯的同系物&#xa;▪︎ 产物：1️⃣来自卤代反应:卤化氢&#xa;2️⃣来自饱和烃，苯环侧链烃基与卤代烃的卤代:卤代烃或卤代烃基的芳香族化合物" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1910" y="5570" width="1130" height="618" as="geometry" />
+          <mxGeometry x="2240" y="11830" width="1130" height="618" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-310" value="醛/酮与氢气加成&#xa;▪︎ 原料与条件：1️⃣来自醛/酮加成:醛,酮,催化剂&#xa;2️⃣来自醛/酮与氢气加成:氢气,加热,加压&#xa;▪︎ 产物：1️⃣来自醛/酮加成:醇（醇羟基）&#xa;2️⃣来自醛/酮与氢气加成:&#xa; #备注：也是还原反应" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="4220" y="26180" width="2100" height="680" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-311" value="酰胺的酸性水解&#xa;▪︎ 原料与条件：&#xa;2️⃣来自酰胺的酸性水解:酰胺,水,酸性环境/无机酸,加热&#xa;▪︎ 产物：&#xa;2️⃣来自酰胺的酸性水解:羧酸（羧基）,铵盐" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1730" y="6500" width="260" height="222" as="geometry" />
+          <mxGeometry x="2405" y="15410" width="1720" height="660" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-312" value="酯的碱性水解（包含皂化反应）&#xa;▪︎ 原料与条件：&#xa;2️⃣来自酯的碱性水解（包含皂化反应）:酯,碱性环境/碱的水溶液,加热&#xa;▪︎ 产物：&#xa;2️⃣来自酯的碱性水解（包含皂化反应）:羧酸盐,醇（醇羟基）&#xa; #备注：皂化反应指的是硬脂酸甘油酯的碱性水解，如其名所言，可以造香皂" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="3185" y="7120" width="2150" height="612" as="geometry" />
+          <mxGeometry x="3690" y="17560" width="2150" height="612" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-313" value="银氨溶液氧化醛&#xa;▪︎ 原料与条件：1️⃣来自弱氧化剂氧化（醛/类醛结构的特征反应）:醛,碱性环境/碱的水溶液,加热&#xa;2️⃣来自银氨溶液氧化醛:银氨溶液,水浴加热&#xa;▪︎ 产物：1️⃣来自弱氧化剂氧化（醛/类醛结构的特征反应）:水,羧酸盐&#xa;2️⃣来自银氨溶液氧化醛:铵盐" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="2340" y="-1400" width="1190" height="1188" as="geometry" />
@@ -107,13 +107,13 @@
           <mxGeometry x="2650" y="1430" width="1280" height="650" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-315" value="醇（羟基）的酯化&#xa;▪︎ 原料与条件：1️⃣来自酯化反应:加热,可逆,浓硫酸&#xa;2️⃣来自醇（羟基）的酯化:醇（醇羟基）,羧酸（羧基）&#xa;▪︎ 产物：1️⃣来自酯化反应:酯,水&#xa;2️⃣来自醇（羟基）的酯化:" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1740" y="8288" width="260" height="222" as="geometry" />
+          <mxGeometry x="3090" y="20620" width="2800" height="602" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-316" value="重铬酸钾 氧化 伯醇&#xa;▪︎ 原料与条件：1️⃣来自强氧化剂（高锰酸根/重铬酸根）氧化:酸性环境/无机酸&#xa;2️⃣来自重铬酸钾 氧化 伯醇:重铬酸钾,α-H,醇（醇羟基）&#xa;▪︎ 产物：&#xa;2️⃣来自重铬酸钾 氧化 伯醇:羧酸（羧基）,水,三价铬离子" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="4030" y="2060" width="1400" height="610" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-317" value="卤化烃的水解&#xa;▪︎ 原料与条件：&#xa;2️⃣来自卤化烃的水解:卤化烃,碱性环境/碱的水溶液,加热&#xa;▪︎ 产物：&#xa;2️⃣来自卤化烃的水解:醇（醇羟基）,卤化盐" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="6800" width="260" height="222" as="geometry" />
+          <mxGeometry x="2820" y="16740" width="1430" height="600" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-318" value="苯酚在空气中氧化&#xa;▪︎ 原料与条件：&#xa;2️⃣来自苯酚在空气中氧化:苯酚与同系物,氧气&#xa;▪︎ 产物：&#xa;2️⃣来自苯酚在空气中氧化:对苯醌" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="910" y="-730" width="570" height="768" as="geometry" />
@@ -122,16 +122,16 @@
           <mxGeometry x="6160" y="1290" width="1390" height="700" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-320" value="羧酸（羧基）的酯化&#xa;▪︎ 原料与条件：1️⃣来自酯化反应:加热,可逆,浓硫酸&#xa;2️⃣来自羧酸（羧基）的酯化:醇（醇羟基）,羧酸（羧基）&#xa;▪︎ 产物：1️⃣来自酯化反应:酯,水&#xa;2️⃣来自羧酸（羧基）的酯化:" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1614" y="8730" width="260" height="270" as="geometry" />
+          <mxGeometry x="2510" y="21310" width="2410" height="870" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-321" value="酰胺的碱性水解&#xa;▪︎ 原料与条件：&#xa;2️⃣来自酰胺的碱性水解:酰胺,碱性环境/碱的水溶液,加热&#xa;▪︎ 产物：&#xa;2️⃣来自酰胺的碱性水解:羧酸盐,氨气" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1354" y="7060" width="260" height="222" as="geometry" />
+          <mxGeometry x="1680" y="14900" width="1570" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-322" value="高锰酸钾 氧化 酮&#xa;▪︎ 原料与条件：1️⃣来自强氧化剂（高锰酸根/重铬酸根）氧化:酸性环境/无机酸&#xa;2️⃣来自高锰酸钾 氧化 酮:高锰酸钾,酮,α-H&#xa;▪︎ 产物：&#xa;2️⃣来自高锰酸钾 氧化 酮:羧酸（羧基）,水,二价锰离子&#xa; #备注：两分子羧酸" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="4290" y="2860" width="1430" height="630" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-323" value="苯酚的溴代反应&#xa;▪︎ 原料与条件：1️⃣来自卤代反应:卤素单质&#xa;2️⃣来自苯酚的溴代反应:苯酚与同系物,浓溴水/饱和溴水,溴的水溶液/四氯化碳溶液&#xa;▪︎ 产物：1️⃣来自卤代反应:卤化氢&#xa;2️⃣来自苯酚的溴代反应:三溴苯酚（白色沉淀）,卤化氢,溴化氢&#xa; #备注：注意，必须是浓的/饱和的！！！" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="3080" y="6270" width="2360" height="566" as="geometry" />
+          <mxGeometry x="2600" y="14260" width="2360" height="566" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-324" value="催化氧化醇&#xa;▪︎ 原料与条件：1️⃣来自催化氧化:氧气,加热,催化剂&#xa;2️⃣来自催化氧化醇:醇（醇羟基）,铜/银催化剂,β-H,α-H&#xa;▪︎ 产物：&#xa;2️⃣来自催化氧化醇:醛,酮&#xa; #备注：看具体是伯醇还是仲醇" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="2820" y="540" width="890" height="630" as="geometry" />
@@ -155,10 +155,10 @@
           <mxGeometry x="3144" y="24360" width="1326" height="720" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-331" value="糖类的水解&#xa;▪︎ 原料与条件：&#xa;2️⃣来自糖类的水解:多糖/二糖,酸性环境/无机酸,酶&#xa;▪︎ 产物：&#xa;2️⃣来自糖类的水解:单糖" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="940" y="6910" width="260" height="174" as="geometry" />
+          <mxGeometry x="1470" y="16180" width="1060" height="840" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-332" value="醇的分子间脱水&#xa;▪︎ 原料与条件：1️⃣来自醇的特殊取代:醇（醇羟基）,酸性环境/无机酸,加热&#xa;2️⃣来自醇的分子间脱水:浓硫酸,140℃加热&#xa;▪︎ 产物：&#xa;2️⃣来自醇的分子间脱水:醚" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="2710" y="7920" width="260" height="222" as="geometry" />
+          <mxGeometry x="4710" y="19480" width="2170" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-333" value="高锰酸钾 氧化 醛&#xa;▪︎ 原料与条件：1️⃣来自强氧化剂（高锰酸根/重铬酸根）氧化:酸性环境/无机酸&#xa;2️⃣来自高锰酸钾 氧化 醛:高锰酸钾,醛&#xa;▪︎ 产物：&#xa;2️⃣来自高锰酸钾 氧化 醛:羧酸（羧基）,水,二价锰离子" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="3130" y="3240" width="1150" height="538" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="5160" y="3590" width="2600" height="526" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-335" value="醇的卤化氢取代&#xa;▪︎ 原料与条件：1️⃣来自醇的特殊取代:醇（醇羟基）,酸性环境/无机酸,加热&#xa;2️⃣来自醇的卤化氢取代:卤化氢&#xa;▪︎ 产物：&#xa;2️⃣来自醇的卤化氢取代:卤代烃或卤代烃基的芳香族化合物,水" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="7640" width="260" height="270" as="geometry" />
+          <mxGeometry x="4540" y="18380" width="4170" height="780" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-336" value="重铬酸钾 氧化 醛&#xa;▪︎ 原料与条件：1️⃣来自强氧化剂（高锰酸根/重铬酸根）氧化:酸性环境/无机酸&#xa;2️⃣来自重铬酸钾 氧化 醛:醛,重铬酸钾&#xa;▪︎ 产物：&#xa;2️⃣来自重铬酸钾 氧化 醛:羧酸（羧基）,水,三价铬离子" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="2930" y="3880" width="1220" height="506" as="geometry" />
@@ -188,16 +188,16 @@
           <mxGeometry x="4900" y="5770" width="1260" height="632" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-342" value="苯环的卤代&#xa;▪︎ 原料与条件：1️⃣来自卤代反应:卤素单质&#xa;2️⃣来自苯环的卤代:卤化铁&#xa;▪︎ 产物：1️⃣来自卤代反应:卤化氢&#xa;2️⃣来自苯环的卤代:苯环邻对位卤代" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="6241" width="260" height="222" as="geometry" />
+          <mxGeometry x="2090" y="12690" width="1410" height="680" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-343" value="酯的酸性水解&#xa;▪︎ 原料与条件：&#xa;2️⃣来自酯的酸性水解:酯,酸性环境/无机酸,可逆,浓硫酸,加热&#xa;▪︎ 产物：&#xa;2️⃣来自酯的酸性水解:醇（醇羟基）,羧酸（羧基）" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="7340" width="260" height="222" as="geometry" />
+          <mxGeometry x="2140" y="17420" width="1060" height="550" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-344" value="醛/酮与氢氰酸加成&#xa;▪︎ 原料与条件：1️⃣来自醛/酮加成:醛,酮,催化剂&#xa;2️⃣来自醛/酮与氢氰酸加成:氢氰酸&#xa;▪︎ 产物：1️⃣来自醛/酮加成:醇（醇羟基）&#xa;2️⃣来自醛/酮与氢氰酸加成:氰醇" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="4220" y="27290" width="1700" height="850" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-345" value="蔗糖水解生成葡萄糖与果糖&#xa;▪︎ 原料与条件：&#xa;2️⃣来自糖类的水解:多糖/二糖,酸性环境/无机酸,酶&#xa;3️⃣来自蔗糖水解生成葡萄糖与果糖:蔗糖,水&#xa;▪︎ 产物：&#xa;2️⃣来自糖类的水解:单糖&#xa;3️⃣来自蔗糖水解生成葡萄糖与果糖:葡萄糖,果糖" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="950" y="7190" width="260" height="270" as="geometry" />
+          <mxGeometry x="4210" y="15990" width="1550" height="760" as="geometry" />
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-346" value="有机化学思维导图" style="whiteSpace=wrap;strokeWidth=15;labelBackgroundColor=none;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="-2200" y="5326" width="528" height="204" as="geometry" />
@@ -210,7 +210,7 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-348" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-289" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="593" y="6092" />
+              <mxPoint x="-1610" y="14770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -235,10 +235,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-352" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-293" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-352" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-293" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="6310" />
+              <mxPoint x="-140" y="15560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -249,38 +249,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-354" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=1.088;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-284" target="Lt-VC9pz8S9Jt6Zxi4i6-295" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-354" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-284" target="Lt-VC9pz8S9Jt6Zxi4i6-295" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="5430" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZIt2hhNUcS_c5rl3bRja-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lt-VC9pz8S9Jt6Zxi4i6-354">
+          <mxGeometry x="-0.0718" y="-33" relative="1" as="geometry">
+            <mxPoint x="-1" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-355" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1.01;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-283" target="Lt-VC9pz8S9Jt6Zxi4i6-296" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="5210" />
+              <mxPoint x="-450" y="10740" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-356" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.614;exitY=0.941;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-284" target="Lt-VC9pz8S9Jt6Zxi4i6-297" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="5520" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-357" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=1.01;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-284" target="Lt-VC9pz8S9Jt6Zxi4i6-298" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="5600" />
+              <mxPoint x="-870" y="7470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-358" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-299" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-358" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-299" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="6330" />
+              <mxPoint x="-1680" y="13870" />
             </Array>
             <mxPoint x="370" y="5990" as="sourcePoint" />
           </mxGeometry>
@@ -294,14 +297,14 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-360" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-301" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="6140" />
+              <mxPoint x="-230" y="18660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-361" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-302" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="6560" />
+              <mxPoint x="-690" y="22340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -315,7 +318,7 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-363" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-304" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="7523" />
+              <mxPoint x="210" y="21170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -341,14 +344,14 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-367" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-285" target="Lt-VC9pz8S9Jt6Zxi4i6-308" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="7800" />
+              <mxPoint x="-1930" y="21410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-368" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-289" target="Lt-VC9pz8S9Jt6Zxi4i6-309" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1003" y="5690" />
+              <mxPoint x="1260" y="12360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -362,14 +365,14 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-370" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-301" target="Lt-VC9pz8S9Jt6Zxi4i6-311" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1680" y="6547" />
+              <mxPoint x="1220" y="15190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-371" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-301" target="Lt-VC9pz8S9Jt6Zxi4i6-312" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1740" y="6720" />
+              <mxPoint x="2710" y="18150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -390,7 +393,7 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-374" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-308" target="Lt-VC9pz8S9Jt6Zxi4i6-315" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1660" y="8030" />
+              <mxPoint x="2230" y="21070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -401,10 +404,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-376" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-301" target="Lt-VC9pz8S9Jt6Zxi4i6-317" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-376" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-301" target="Lt-VC9pz8S9Jt6Zxi4i6-317" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1460" y="6960" />
+              <mxPoint x="1930" y="16910" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -422,18 +425,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-379" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-308" target="Lt-VC9pz8S9Jt6Zxi4i6-320" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-379" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;exitDx=0;exitDy=0;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-308" target="Lt-VC9pz8S9Jt6Zxi4i6-320" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1300" y="8600" />
+              <mxPoint x="2440" y="21430" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-380" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-301" target="Lt-VC9pz8S9Jt6Zxi4i6-321" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-380" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" target="Lt-VC9pz8S9Jt6Zxi4i6-321" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1360" y="7130" />
+              <mxPoint x="530" y="16740" />
             </Array>
+            <mxPoint x="510" y="19190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-381" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;exitDx=0;exitDy=0;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-306" target="Lt-VC9pz8S9Jt6Zxi4i6-322" edge="1">
@@ -446,7 +450,7 @@
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-382" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.45;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-289" target="Lt-VC9pz8S9Jt6Zxi4i6-323" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1260" y="5850" />
+              <mxPoint x="2050" y="13780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -498,17 +502,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-390" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;entryDx=0;entryDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-301" target="Lt-VC9pz8S9Jt6Zxi4i6-331" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-390" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=0.75;rounded=0;labelBackgroundColor=none;entryDx=0;entryDy=0;fontSize=60;strokeWidth=15;exitDx=0;exitDy=0;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-301" target="Lt-VC9pz8S9Jt6Zxi4i6-331" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="6780" />
+              <mxPoint x="1240" y="17360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-391" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-304" target="Lt-VC9pz8S9Jt6Zxi4i6-332" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-391" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-304" target="Lt-VC9pz8S9Jt6Zxi4i6-332" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="7870" />
+              <mxPoint x="4640" y="20000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -526,10 +530,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-394" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-304" target="Lt-VC9pz8S9Jt6Zxi4i6-335" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-394" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;exitDx=0;exitDy=0;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-304" target="Lt-VC9pz8S9Jt6Zxi4i6-335" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1030" y="7730" />
+              <mxPoint x="2950" y="18700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -575,18 +579,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-401" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-289" target="Lt-VC9pz8S9Jt6Zxi4i6-342" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-401" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.009;exitY=0.41;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-289" target="Lt-VC9pz8S9Jt6Zxi4i6-342" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1230" y="6060" />
+              <mxPoint x="1470" y="12490" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-402" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-301" target="Lt-VC9pz8S9Jt6Zxi4i6-343" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-402" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" target="Lt-VC9pz8S9Jt6Zxi4i6-343" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1250" y="7440" />
+              <mxPoint x="1460" y="18780" />
             </Array>
+            <mxPoint x="810" y="19345" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-403" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-307" target="Lt-VC9pz8S9Jt6Zxi4i6-344" edge="1">
@@ -596,7 +601,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-404" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-331" target="Lt-VC9pz8S9Jt6Zxi4i6-345" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-404" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.75;rounded=0;labelBackgroundColor=none;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-331" target="Lt-VC9pz8S9Jt6Zxi4i6-345" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -615,17 +620,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-407" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0.01;entryX=0;entryY=0.51;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-346" target="Lt-VC9pz8S9Jt6Zxi4i6-283" edge="1">
+        <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-407" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.51;rounded=0;labelBackgroundColor=none;fontSize=60;strokeWidth=15;exitDx=0;exitDy=0;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-346" target="Lt-VC9pz8S9Jt6Zxi4i6-283" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-960" y="5120" />
+              <mxPoint x="-1580" y="6690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt-VC9pz8S9Jt6Zxi4i6-408" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1.01;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;entryDx=0;entryDy=0;fontSize=60;strokeWidth=15;" parent="1" source="Lt-VC9pz8S9Jt6Zxi4i6-346" target="Lt-VC9pz8S9Jt6Zxi4i6-284" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="5310" />
+              <mxPoint x="-1670" y="6030" />
             </Array>
           </mxGeometry>
         </mxCell>
